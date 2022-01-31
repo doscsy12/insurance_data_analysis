@@ -1,2 +1,2 @@
-# insurance_firm_data
-Case Study of the Insurance Industry
+## Data-driven strategic planning on integrated product and marketing communications
+Case Study from a life insurance firm
